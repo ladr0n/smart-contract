@@ -1,1 +1,17 @@
-# smart-contract
+# 部署合约地址
+
+部署网络：Arbitrum Goerli、Polygon Mumbai、BSC Testnet、Goerli、Scroll Alpha Testnet
+
+Treasury: 0xeE9b0f1bCad2A141ca7c44dDe34C9C6bd12B3AD3
+MainTreasury: 0xc5cAB3a14f76FB1147207CE94aF333edE02DDCeB
+DepositWalletFactory: 0x186ec52e5E76600580c9e8A3A52Ef5efB8174D5a
+
+Treasury: 0x72407Fc5932e85DF0dBa1E2E973C400228749adA
+MainTreasury: 0xE78806f1D1a198c51529e36Dbb24641fD62F1848
+DepositWalletFactory: 0x788560d0b4A14c03dC045835d7De1dd13c763596
+
+部署网络：Arbitrum Goerli、Polygon Mumbai
+HotTreasury: 0x6345a378B8580A00FE47A29960e9Af6c5BE41d7A
+MainTreasury: 0x7B9B1B5ffbA30bBE6888cd2ae94399AC537e7315
+Verifier: 0xF017e76BD14aac976E3a03AAB38ef57F11242ba0
+DepositWalletFactory: 0x19b391e71Da176274cd4B1ba725616f50d1fe4EC
